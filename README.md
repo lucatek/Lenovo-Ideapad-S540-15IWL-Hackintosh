@@ -28,7 +28,7 @@ Headphones
 Brightness control
 Sleep
 Inbuilt Camera
-Card Reader
+Card Reader: Fix also Sleep Problem! 
 
 What's Not Working:
 Dedicated Graphic Cards with Acceleration 
@@ -44,28 +44,31 @@ Use my complete EFI Folder below.
 
 Ensure your clover/drivers/uefi folder has following files:
 ApfsDriverLoader.efi
-ApfsDriverLoader.efi
 AppleImageCodec.efi
 AppleKeyAggregator.efi
+AppleKeyFeeder.efi
 AppleUITheme.efi
 AptioMemoryFix.efi
+AudioDxe.efi
+DataHubDxe.efi
 NvmExpressDxe.efi
+FSInject.efi
 VirtualSmc.efi
 HFSPlus.efi
-AudioDxe.efi
 
 Ensure your clover/kexts folder has following files:
 Lilu.kext
 AppleALC.kext
-CodecCommander.kextEFICheckDisabler.kext
-HibernationFixup.kext
+EFICheckDisabler.kext
 NoTouchID.kext
 NVMeFix.kext
 Sinetek-rtsx.kext
 SMCBatteryManager.kext
+SMCLightSensor.kext
 SMCProcessor.kext
-SystemProfilerMemoryFixup.kext
+SystemProfiler
 Voodoo2C.kext
+VoodooInput.kext
 Voodoo2CHID.kext
 VoodooPS2Controller.kext
 VirtualSMC.kext
