@@ -98,5 +98,7 @@
 
 | Note: Copy and Paste my EFI in Your EFI Partition, and Than ENJOY Your HACKINTOSH!!!
 
+| [EFI LINK](https://example.com)
+
 
 | Contributors: Mariano Pela e Dreamwhite
