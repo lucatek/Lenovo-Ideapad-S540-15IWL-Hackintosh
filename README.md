@@ -97,3 +97,6 @@
 | Configuration for MacBook Pro 15,2 (13-inch Mid 2019)
 
 | Note: Copy and Paste my EFI in Your EFI Partition, and Than ENJOY Your HACKINTOSH!!!
+
+
+| Contributors: Mariano Pela e Dreamwhite
