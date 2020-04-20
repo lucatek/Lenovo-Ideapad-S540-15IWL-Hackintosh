@@ -97,3 +97,5 @@ sudo rm /var/vm/sleepimage
 sudo mkdir /var/vm/sleepimage
 
 Configuration for MacBook Pro 15,2 (13-inch Mid 2019)
+
+Note: Copy and Paste my EFI in Your EFI Partition, and Than ENJOY Your HACKINTOSH!!!
