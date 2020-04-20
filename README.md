@@ -98,7 +98,7 @@
 
 | Note: Copy and Paste my EFI in Your EFI Partition, and Than ENJOY Your HACKINTOSH!!!
 
-| [EFI LINK](https://example.com)
+| [EFI LINK](https://github.com/lucatek/Lenovo-Ideapad-S540-15IWL-Hackintosh/blob/master/EFI.zip)
 
 
 | Contributors: Mariano Pela e Dreamwhite
