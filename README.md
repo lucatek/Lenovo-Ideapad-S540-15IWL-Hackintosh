@@ -1,4 +1,4 @@
-# S540-15IWL
+# Lenovo-Ideapad-S540-15IWL-Hackintosh
 | Lenovo Ideapad S540-15IWL GTX Laptop on MacOS Catalina
 
 | Lenovo Ideapad S540-15IWL GTX (81SW)
